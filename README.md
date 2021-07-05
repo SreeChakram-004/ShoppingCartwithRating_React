@@ -1,2 +1,2 @@
 # ShoppingCartwithRating_React
-Created with CodeSandbox
+https://csb-h0fbv.netlify.app/
